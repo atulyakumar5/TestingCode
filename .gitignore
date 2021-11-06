@@ -1,2 +1,6 @@
 chromedriver.exe
 hello.txt
+.settings/
+bin/
+Lib/
+Testdata/
